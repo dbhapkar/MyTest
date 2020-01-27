@@ -1,5 +1,9 @@
 Class MyClass{
 	public static void main(String[] args) {
-		System.out.println("aa");
+		if(true)
+		{
+			System.out.println("hii");
+		}
+
 	}
 }
